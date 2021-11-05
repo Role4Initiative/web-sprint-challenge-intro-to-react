@@ -88,7 +88,7 @@ A. A component state is data that can be updated by interaction with the UI on t
 
 1. Describe props.
 
-A. Props are a way to store and pass data from one react component to another kind of like passing arguments to a function.
+A. Props are at their core an object, they are a way to store and pass data from one react component to another, kind of like passing arguments to a function.
 
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
 
